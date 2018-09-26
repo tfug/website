@@ -1,0 +1,8 @@
+.top-logo, .top-logo img{
+    width: 200px;
+}
+
+h4 {
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
+}

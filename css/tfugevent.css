@@ -1,0 +1,41 @@
+.card-list {
+    padding: 20px;
+}
+
+.mdl-card {
+    min-height: auto;
+    width: 100%;
+    margin-bottom: 5px;
+    box-shadow: 1px 3px 2px #ccc;
+}
+
+.mdl-card__title-text {
+    font-size: 16px;
+}
+
+.mdl-card__title {
+    padding-bottom: 10px;
+}
+
+a{
+    color: #666;
+}
+
+.mdl-card__supporting-text {
+    padding-top: 0;
+}
+
+.event-organization {
+    margin-bottom: 3px;
+}
+
+.event-organization span{
+    color: #fff;
+    font-size: 12px;
+    background-color: #ffcc6a;
+    padding: 3px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -o-border-radius: 8px;
+    border-radius: 8px;
+}

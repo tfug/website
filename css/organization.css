@@ -1,0 +1,16 @@
+.card-list {
+    padding: 20px;
+}
+
+.mdl-card {
+    min-height: auto;
+    width: 100%;
+}
+
+.mdl-card__title-text {
+    font-size: 16px;
+}
+
+a{
+    color: #666;
+}
