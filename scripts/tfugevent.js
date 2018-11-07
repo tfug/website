@@ -27,7 +27,7 @@ $(function() {
                 putEventData(data);
             },
             error: function(XMLHttpRequest, textStatus, errorThrown) {
-                callback("サーバーとの接続が失敗しました", null);
+                alert("サーバーとの接続が失敗しました");
             }
         });
     }
