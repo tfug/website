@@ -3,6 +3,7 @@ $(function() {
         {location:"TFUG会津", url:"https://tfug-aizu.connpass.com/"},
         {location:"TFUG宇都宮", url:"https://tfug-utsunomiya.connpass.com/"},
         {location:"TFUG東京", url:"https://tfug-tokyo.connpass.com/"},
+        {location:"TFUG新潟", url:"https://tfug-niigata.connpass.com/"},
         {location:"TFUG関西", url:"https://tfug-kansai.connpass.com/"},
         {location:"TFUG福岡", url:"https://tfugfuk.connpass.com/"},
         {location:"TFUG鹿児島", url:"https://tfug-kagoshima.connpass.com/"},
